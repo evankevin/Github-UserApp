@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub App</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dark_mode">Dark Mode</string>
+
+    <string name="company">Company :</string>
+    <string name="location">Location :</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="there_s_no_data_found">There\'s no data found</string>
+    <string name="no_users_have_been_added_to_the_favorites_list_yet">No users have been added to the favorites list yet</string>
+</resources>

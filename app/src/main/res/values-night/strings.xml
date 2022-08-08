@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="there_s_no_data_found">There\'s no data found</string>
+    <string name="no_users_have_been_added_to_the_favorites_list_yet">No users have been added to the favorites list yet</string>
+</resources>
